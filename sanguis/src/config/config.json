@@ -1,0 +1,3 @@
+{
+  "mongoConnect": "mongodb+srv://Felipe:db-beambot-sur1@beam-bot-5pg8c.mongodb.net/doe?retryWrites=true&w=majority"
+}
