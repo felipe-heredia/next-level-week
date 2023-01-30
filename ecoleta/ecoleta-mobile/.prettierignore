@@ -1,0 +1,9 @@
+.cache
+package.json
+yarn.lock
+.editorconfig
+.expo-shared
+.expo
+package-lock.json
+public
+tsconfig.json
